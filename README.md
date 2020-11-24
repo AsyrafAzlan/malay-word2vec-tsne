@@ -5,6 +5,9 @@ Word2Vec is performed on Malay Wikipedia dump on 2020-03-01:
 </br>[1] Wikimedia Foundation. ―mswiki dump progress on 20200301.‖ Wikimedia Downloads. https://dumps.wikimedia.org/mswiki/20200301/ (accessed March 09, 2020).
 You may find the latest dumps on: https://dumps.wikimedia.org/mswiki
 
+The Word2Vec output/results/collaterals can be obtained via:
+</br>https://www.dropbox.com/s/pm9rrynspp16det/malay_word2vec.zip?dl=0
+
 Word2Vec algorithm is based on:
 </br>[2] Mikolov, Tomas, Kai Chen, Greg Corrado, and Jeffrey Dean. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013).
 
